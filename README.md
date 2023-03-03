@@ -20,7 +20,11 @@ For this specific homework, if you click on the buttons in the navigation bar, i
 
 **DISCLAIMER**: This specific layout is only created for desktop viewing. 
 
-![alt text](assets/images/screenshot.png)
+
+<img width="1680" alt="Screenshot 2023-03-03 at 3 31 05 PM" src="https://user-images.githubusercontent.com/126287138/222854512-e1b5ebff-4deb-45c1-a2aa-e34abe57350e.png">
+
+
+
 
 ## Credits
 
