@@ -1,7 +1,5 @@
 # homework-1
 
-Horiseon - The go to company to get you where you want to be!
-
 ## Description
 
 My motivation steamed from my desire to learn and solidify my understanding of HTML and CSS. With these two languages, I hoped to build a useable website. 
@@ -20,11 +18,7 @@ For this specific homework, if you click on the buttons in the navigation bar, i
 
 **DISCLAIMER**: This specific layout is only created for desktop viewing. 
 
-
-<img width="1680" alt="Screenshot 2023-03-03 at 3 31 05 PM" src="https://user-images.githubusercontent.com/126287138/222854512-e1b5ebff-4deb-45c1-a2aa-e34abe57350e.png">
-
-
-
+![alt text](./assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
