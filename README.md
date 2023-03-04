@@ -9,7 +9,7 @@ This specifically solves my lack of knowledge surronding HTML and CSS. It helps 
 I learned how to refactor a webpage and how to apply my basic knowledge of HTML and CSS.
 
 ## Deploy link
-
+https://samanthaahn.github.io/homework-1/
 
 ## Installation
 
