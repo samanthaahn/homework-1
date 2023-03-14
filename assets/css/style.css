@@ -1,20 +1,22 @@
+/* This is a basic reset so I could start clean*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This refers to the whole body of the webistes background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* This section refers to the header of my html*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Gave all my h1 elements font size of 48 and to display it inline*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +25,7 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-
+/* This refers to the navigation section: padding of 15 and marginalized to the right by 20px, floating to the right and with the font-family of Gill Sans, and a font size of 20px */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +34,12 @@ nav {
     font-size: 20px;
 }
 
+/* specifically for unordered list I just specified that there was no list style type */
 ul {
     list-style-type: none;
 }
 
+/* regarding all my lists I waned them to be displayed inline and have a margin left of 25 px */
 li {
     display: inline-block;
     margin-left: 25px;
