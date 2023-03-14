@@ -44,16 +44,18 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* all a elements will not have a text decoration but a white color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* I set my paragraph to a font size of 16px */
 p {
     font-size: 16px;
 }
 
+/* Hero photo details */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,22 +65,26 @@ p {
     background-position: center;
 }
 
+/* Centering the page from the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Centering the page from the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Giving the content its width, the display and having it 20px from the left */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefit section details from line 88-113 */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,6 +112,7 @@ p {
     max-width: 150px;
 }
 
+/* Search Engine section details  from line 116-132*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,6 +131,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer section details */
 footer {
     padding: 30px;
     clear: both;
@@ -131,6 +139,7 @@ footer {
     text-align: center;
 }
 
+/* Specifically the h2 footer details */
 .footer h2 {
     font-size: 20px;
 }
